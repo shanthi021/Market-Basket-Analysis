@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Market-basket-Analysis/static/css/main.c8ea7fba.css",
+    "main.js": "/Market-basket-Analysis/static/js/main.eb602bb9.js",
+    "index.html": "/Market-basket-Analysis/index.html",
+    "main.c8ea7fba.css.map": "/Market-basket-Analysis/static/css/main.c8ea7fba.css.map",
+    "main.eb602bb9.js.map": "/Market-basket-Analysis/static/js/main.eb602bb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8ea7fba.css",
+    "static/js/main.eb602bb9.js"
+  ]
+}
